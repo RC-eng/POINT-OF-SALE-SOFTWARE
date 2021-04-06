@@ -5,7 +5,7 @@ Link below (Quick video demo for my POS Software)
 
 https://user-images.githubusercontent.com/82028712/113694567-827eaa00-9702-11eb-8a51-7b0b73f74e08.mp4
 
-UI Images for POS Software.
+UI Images for my POS Software.
 
 ![Log-in(Light)](https://user-images.githubusercontent.com/82028712/113693912-b4dbd780-9701-11eb-995a-8f1505160b0d.png)
 ![Log-in(Dark)](https://user-images.githubusercontent.com/82028712/113693919-b73e3180-9701-11eb-95ec-7ce2970db544.png)

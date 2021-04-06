@@ -2,6 +2,7 @@
 My Capstone Project.
 
 Link below (Quick video demo for my POS Software)
+
 https://user-images.githubusercontent.com/82028712/113694567-827eaa00-9702-11eb-8a51-7b0b73f74e08.mp4
 
 UI Images for my POS Software.
